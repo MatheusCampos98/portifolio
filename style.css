@@ -1,0 +1,29 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: #0D0D0D;
+    color: white;
+}
+
+header{
+    margin-top: 2%;
+    text-decoration: none;
+}
+
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+footer{
+    margin: auto;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+div{
+    display: inline-block;
+}
